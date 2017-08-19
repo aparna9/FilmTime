@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FilmTime</string>
+    <string-array name="mode_array">
+        <item>Popularity</item>
+        <item>Rating</item>
+    </string-array>
+</resources>
